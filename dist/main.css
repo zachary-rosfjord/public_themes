@@ -578,6 +578,7 @@ html {
 }
 
 #page-top:not(.single-post) .list-view-item > .post .thumb-wrapper .thumb-link {
+    position: absolute;
     display: block;
     max-width: none;
     max-height: none;
